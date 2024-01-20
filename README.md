@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mauryakavita
 - 👀 I’m interested in Web development
-- 🌱 I’m currently learning Ract.js
-- 💞️ I’m looking to collaborate on internship
+- 🌱 I’m currently learning Ract.js & DSA
+- 💞️ I’m looking to collaborate on Web development
 - 📫 How to reach me kvltmaurya@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am stubborn for my target
