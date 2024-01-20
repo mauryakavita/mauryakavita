@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on internship
 - 📫 How to reach me kvltmaurya@gmail.com
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i am stburn for my target
+- ⚡ Fun fact: i am stubborn for my target
 
 <!---
 mauryakavita/mauryakavita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
