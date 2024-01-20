@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web development
 - 🌱 I’m currently learning Ract.js & DSA
 - 💞️ I’m looking to collaborate on Web development
-- 📫 How to reach me kvltmaurya@gmail.com & https://www.linkedin.com/in/kavita-maurya-7239b2279/
+- 📫 How to reach me ldckavitamaurya@gmail.com & https://www.linkedin.com/in/kavita-maurya-7239b2279/
 - 😄 Pronouns: ...
 - ⚡ Fun fact: i am stubborn for my target
 
